@@ -6,5 +6,5 @@ def main():
     Returns:
         list: return answer
     """
-    return list
-print(main(list=[]))
+    return []
+print(main())
